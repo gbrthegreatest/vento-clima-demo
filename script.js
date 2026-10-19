@@ -6,7 +6,7 @@
 const CONFIG = {
   whatsappNumber: '5541984454299',
   whatsappMessage: 'Olá! Gostaria de saber mais sobre instalação, limpeza ou manutenção de ar-condicionado.',
-  googleBusinessUrl: '' // URL real do perfil da empresa no Google, se houver.
+  googleBusinessUrl: ''
 };
 
 const setupDialog = document.getElementById('setup-dialog');
